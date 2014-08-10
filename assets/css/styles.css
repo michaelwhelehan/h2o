@@ -146,3 +146,19 @@ body {
     margin-top: 120px;
   }
 }
+
+@media (max-width: 767px) {
+  .carousel {
+    margin-top: 512px;
+    height: 500px;
+    margin-bottom: 60px;
+  }
+
+  .top-push {
+    height: 520px;
+  }
+
+  .navbar a {
+    text-align: center;
+  }
+}
